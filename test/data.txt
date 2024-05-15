@@ -1,0 +1,325 @@
+Hour: 13:37:28
+Date: 12/05/2024
+Acceleration (g)  Xg=0.46 Yg=0.86 Zg=-0.51
+Angular velocity (degree/sec) X=-1.41 Y=-0.27 Z=0.64
+Temperature =34.22 C
+Hour: 13:37:29
+Date: 12/05/2024
+Acceleration (g)  Xg=0.46 Yg=0.85 Zg=-0.49
+Angular velocity (degree/sec) X=-2.02 Y=-0.13 Z=1.00
+Temperature =34.63 C
+Hour: 13:37:30
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.50 Y=0.09 Z=0.71
+Temperature =34.53 C
+Hour: 13:37:32
+Date: 12/05/2024
+Acceleration (g)  Xg=0.46 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.30 Y=-0.01 Z=0.79
+Temperature =34.73 C
+Hour: 13:37:33
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.21 Y=-0.18 Z=1.05
+Temperature =34.83 C
+Hour: 13:37:34
+Date: 12/05/2024
+Acceleration (g)  Xg=0.46 Yg=0.86 Zg=-0.50
+Angular velocity (degree/sec) X=-1.44 Y=0.01 Z=0.74
+Temperature =34.73 C
+Hour: 13:37:35
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.86 Zg=-0.50
+Angular velocity (degree/sec) X=-1.41 Y=-0.24 Z=0.84
+Temperature =34.63 C
+Hour: 13:37:36
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.86 Zg=-0.51
+Angular velocity (degree/sec) X=-1.11 Y=-0.13 Z=0.84
+Temperature =34.63 C
+Hour: 13:37:37
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.52
+Angular velocity (degree/sec) X=-1.50 Y=-0.27 Z=0.69
+Temperature =34.53 C
+Hour: 13:37:38
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.86 Zg=-0.50
+Angular velocity (degree/sec) X=-1.24 Y=-0.30 Z=1.21
+Temperature =34.42 C
+Hour: 13:37:39
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.52
+Angular velocity (degree/sec) X=-1.67 Y=-0.20 Z=0.44
+Temperature =34.22 C
+Hour: 13:37:41
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.86 Zg=-0.51
+Angular velocity (degree/sec) X=-1.31 Y=-0.45 Z=1.34
+Temperature =34.22 C
+Hour: 13:37:42
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.52 Y=-0.21 Z=0.91
+Temperature =34.02 C
+Hour: 13:37:43
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.52
+Angular velocity (degree/sec) X=-1.44 Y=-0.01 Z=0.77
+Temperature =33.92 C
+Hour: 13:37:44
+Date: 12/05/2024
+Acceleration (g)  Xg=0.46 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.56 Y=-0.17 Z=0.66
+Temperature =33.72 C
+Hour: 13:37:45
+Date: 12/05/2024
+Acceleration (g)  Xg=0.46 Yg=0.86 Zg=-0.50
+Angular velocity (degree/sec) X=-1.31 Y=-0.11 Z=1.01
+Temperature =33.72 C
+Hour: 13:37:46
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.28 Y=-0.05 Z=0.96
+Temperature =33.62 C
+Hour: 13:37:47
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.52
+Angular velocity (degree/sec) X=-1.08 Y=-0.12 Z=0.89
+Temperature =33.52 C
+Hour: 13:37:48
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.84 Zg=-0.51
+Angular velocity (degree/sec) X=-3.59 Y=-0.08 Z=-0.85
+Temperature =33.42 C
+Hour: 13:37:49
+Date: 12/05/2024
+Acceleration (g)  Xg=0.46 Yg=0.85 Zg=-0.50
+Angular velocity (degree/sec) X=-1.21 Y=-0.67 Z=1.42
+Temperature =32.05 C
+Hour: 13:37:51
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.89 Y=-0.12 Z=0.44
+Temperature =33.32 C
+Hour: 13:37:52
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.68 Y=-0.35 Z=0.74
+Temperature =32.54 C
+Hour: 13:37:53
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.50
+Angular velocity (degree/sec) X=-1.44 Y=-0.11 Z=0.69
+Temperature =33.03 C
+Hour: 13:37:54
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.56 Y=-0.09 Z=0.98
+Temperature =31.95 C
+Hour: 13:37:55
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.32 Y=0.04 Z=0.79
+Temperature =31.28 C
+Hour: 13:37:56
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.36 Y=-0.16 Z=0.90
+Temperature =31.09 C
+Hour: 13:37:57
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.16 Y=-0.05 Z=0.80
+Temperature =30.80 C
+Hour: 13:37:58
+Date: 12/05/2024
+Acceleration (g)  Xg=0.46 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.57 Y=0.15 Z=0.81
+Temperature =32.44 C
+Hour: 13:38:00
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.18 Y=-0.31 Z=0.69
+Temperature =32.54 C
+Hour: 13:38:01
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.47 Y=-0.24 Z=0.82
+Temperature =32.44 C
+Hour: 13:38:02
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.52
+Angular velocity (degree/sec) X=-0.64 Y=0.29 Z=1.05
+Temperature =32.24 C
+Hour: 13:38:05
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.86 Zg=-0.52
+Angular velocity (degree/sec) X=-1.09 Y=-0.02 Z=1.02
+Temperature =32.15 C
+Hour: 13:38:06
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.86 Zg=-0.52
+Angular velocity (degree/sec) X=-0.60 Y=-0.37 Z=1.06
+Temperature =32.05 C
+Hour: 13:38:07
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-0.73 Y=0.07 Z=1.08
+Temperature =32.05 C
+Hour: 13:38:08
+Date: 12/05/2024
+Acceleration (g)  Xg=0.48 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.41 Y=-0.02 Z=0.82
+Temperature =31.95 C
+Hour: 13:38:09
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.84 Zg=-0.52
+Angular velocity (degree/sec) X=-1.37 Y=-0.28 Z=0.83
+Temperature =31.85 C
+Hour: 13:38:10
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.52
+Angular velocity (degree/sec) X=-1.08 Y=0.01 Z=1.09
+Temperature =31.76 C
+Hour: 13:38:11
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.52
+Angular velocity (degree/sec) X=-1.31 Y=-0.15 Z=1.02
+Temperature =32.24 C
+Hour: 13:38:13
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.15 Y=-0.13 Z=0.93
+Temperature =32.93 C
+Hour: 13:38:14
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.11 Y=0.03 Z=1.06
+Temperature =32.24 C
+Hour: 13:38:15
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.86 Zg=-0.52
+Angular velocity (degree/sec) X=-1.34 Y=0.07 Z=0.68
+Temperature =32.15 C
+Hour: 13:38:16
+Date: 12/05/2024
+Acceleration (g)  Xg=0.48 Yg=0.85 Zg=-0.52
+Angular velocity (degree/sec) X=-2.46 Y=0.15 Z=-0.18
+Temperature =32.15 C
+Hour: 13:38:17
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.52
+Angular velocity (degree/sec) X=-1.21 Y=-0.07 Z=0.76
+Temperature =32.15 C
+Hour: 13:38:18
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.86 Zg=-0.51
+Angular velocity (degree/sec) X=-1.56 Y=-0.02 Z=0.56
+Temperature =32.15 C
+Hour: 13:38:19
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.17 Y=-0.15 Z=1.08
+Temperature =32.63 C
+Hour: 13:38:20
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.27 Y=-0.22 Z=0.79
+Temperature =32.34 C
+Hour: 13:38:21
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.50
+Angular velocity (degree/sec) X=-1.16 Y=-0.02 Z=0.87
+Temperature =32.73 C
+Hour: 13:38:23
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.20 Y=-0.16 Z=0.69
+Temperature =33.52 C
+Hour: 13:38:24
+Date: 12/05/2024
+Acceleration (g)  Xg=0.46 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.50 Y=-0.12 Z=0.64
+Temperature =34.22 C
+Hour: 13:38:25
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.52
+Angular velocity (degree/sec) X=-1.40 Y=-0.14 Z=0.73
+Temperature =34.73 C
+Hour: 13:38:26
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.24 Y=-0.24 Z=0.93
+Temperature =34.93 C
+Hour: 13:38:27
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-0.92 Y=0.05 Z=1.04
+Temperature =36.38 C
+Hour: 13:38:28
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.52
+Angular velocity (degree/sec) X=-1.44 Y=-0.01 Z=0.60
+Temperature =36.17 C
+Hour: 13:38:29
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.86 Zg=-0.51
+Angular velocity (degree/sec) X=-1.85 Y=-0.51 Z=0.47
+Temperature =32.83 C
+Hour: 13:38:30
+Date: 12/05/2024
+Acceleration (g)  Xg=0.46 Yg=0.85 Zg=-0.50
+Angular velocity (degree/sec) X=-2.66 Y=-0.23 Z=-0.47
+Temperature =32.73 C
+Hour: 13:38:32
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=0.94 Y=-0.03 Z=3.01
+Temperature =32.73 C
+Hour: 13:38:33
+Date: 12/05/2024
+Acceleration (g)  Xg=0.48 Yg=0.85 Zg=-0.52
+Angular velocity (degree/sec) X=-0.89 Y=-0.05 Z=1.29
+Temperature =32.54 C
+Hour: 13:38:34
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.11 Y=0.02 Z=1.20
+Temperature =32.83 C
+Hour: 13:38:35
+Date: 12/05/2024
+Acceleration (g)  Xg=0.46 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-1.52 Y=-0.04 Z=0.91
+Temperature =32.73 C
+Hour: 13:38:36
+Date: 12/05/2024
+Acceleration (g)  Xg=0.48 Yg=0.85 Zg=-0.52
+Angular velocity (degree/sec) X=0.11 Y=0.11 Z=2.15
+Temperature =32.54 C
+Hour: 13:38:37
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.86 Zg=-0.52
+Angular velocity (degree/sec) X=-0.18 Y=0.11 Z=1.49
+Temperature =32.34 C
+Hour: 13:38:38
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=0.18 Y=-0.58 Z=2.50
+Temperature =32.34 C
+Hour: 13:38:39
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-2.05 Y=-0.41 Z=0.42
+Temperature =32.34 C
+Hour: 13:38:41
+Date: 12/05/2024
+Acceleration (g)  Xg=0.46 Yg=0.85 Zg=-0.51
+Angular velocity (degree/sec) X=-2.16 Y=-0.27 Z=0.36
+Temperature =32.24 C
+Hour: 13:38:42
+Date: 12/05/2024
+Acceleration (g)  Xg=0.47 Yg=0.85 Zg=-0.52
+Angular velocity (degree/sec) X=-0.75 Y=0.26 Z=1.32
+Temperature =32.15

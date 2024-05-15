@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15 mai 2024, 20:19:45
+    Author     : Samer
+*/
+
+*{
+
+    -fx-primary :#b4dcf7;
+    -fx-secondary : #1a1a19;
+    -fx-secondarytext : #37261d;
+    -fx-primarytext : #1a1a19;
+    -fx-blue:#012093;
+    -fx-red: #FF0000;
+    -fx-green:#2E7D32;
+    -fx-orange:#FF781F; 
+    -fx-firstgradient:#F0F8FF;
+    -fx-secondgradient:#e4e5f1;
+    -fx-third:#dc7a90;
+    -fx-fourth :#2c4c74;
+    -fx-fifth : #dadadb;
+}
+
+.root{
+
+    -fx-background-color:linear-gradient(to right,-fx-secondgradient, -fx-firstgradient); 
+
+}
+.button{
+    -fx-text-fill: -fx-primarytext;
+    -fx-background-color: -fx-primary;
+    -fx-border-color: -fx-secondary;
+    -fx-border-radius: 3px;
+    -fx-background-radius: 3px;
+    -fx-font-size: 10pt;
+}
+.jfx-text-field{
+    -fx-text-fill: -fx-primarytext;
+    -fx-font-size : 10pt;
+    -jfx-focus-color: -fx-secondary;
+    -jfx-unfocus-color: -fx-secondary;
+    -fx-prompt-text-fill: -fx-primarytext;
+
+}
+.text-field
+{
+    -fx-prompt-text-fill: -fx-secondary; /*Yellow - floating label*/
+    -fx-text-fill: -fx-secondarytext; /*Yellow - input color*/
+    -fx-highlight-fill: -fx-primary; /*Green*/
+}
+.check-box .box {
+
+    -fx-background-color: transparent;
+    -fx-border-color:-fx-primary;
+    -fx-border-radius:3px;
+}
+.jfx-check-box {
+    -jfx-checked-color: -fx-primary;
+    -jfx-unchecked-color: black;
+    -fx-text-fill: -fx-primary;
+    -fx-font-size:12pt;
+}
+
+.button:hover{
+    -fx-border-color: -fx-secondary;
+    -fx-background-color: -fx-secondary;
+    -fx-text-fill: -fx-primary;
+}
