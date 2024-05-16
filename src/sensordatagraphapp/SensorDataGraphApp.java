@@ -28,9 +28,9 @@ public class SensorDataGraphApp extends Application {
     private final XYChart.Series<Number, Number> xSeries;
     private final XYChart.Series<Number, Number> ySeries = new XYChart.Series<>();
     private final XYChart.Series<Number, Number> zSeries = new XYChart.Series<>();
-    private final XYChart.Series<Number, Number> x1Series = new XYChart.Series<>();
-    private final XYChart.Series<Number, Number> y1Series = new XYChart.Series<>();
-    private final XYChart.Series<Number, Number> z1Series = new XYChart.Series<>();
+    private final XYChart.Series<Number, Number> xgSeries = new XYChart.Series<>();
+    private final XYChart.Series<Number, Number> ygSeries = new XYChart.Series<>();
+    private final XYChart.Series<Number, Number> zgSeries = new XYChart.Series<>();
     private final XYChart.Series<Number, Number> tempSeries = new XYChart.Series<>();
 
     private NumberAxis xAxis;
@@ -57,24 +57,28 @@ public class SensorDataGraphApp extends Application {
         chart.setTitle("Sensor Data");
 
         // Set names for series (graph) - Legend
-        xSeries.setName("Xg");
-        ySeries.setName("Yg");
-        zSeries.setName("Zg");
-        x1Series.setName("X");
-        y1Series.setName("Y");
-        z1Series.setName("Z");
+        xSeries.setName("X");
+        ySeries.setName("Y");
+        zSeries.setName("Z");
+
+        xgSeries.setName("Xg");
+        ygSeries.setName("Yg");
+        zgSeries.setName("Zg");
+
         tempSeries.setName("Temp");
 
         // Add series to chart
-        chart.getData().addAll(xSeries, ySeries, zSeries, x1Series, y1Series, z1Series, tempSeries);
+        chart.getData().addAll(xSeries, ySeries, zSeries, xgSeries, ygSeries, zgSeries, tempSeries);
 
         // Create checkboxes for parameters
         CheckBox xCheckBox = new CheckBox("X");
         CheckBox yCheckBox = new CheckBox("Y");
         CheckBox zCheckBox = new CheckBox("Z");
+
         CheckBox xgCheckBox = new CheckBox("Xg");
         CheckBox ygCheckBox = new CheckBox("Yg");
         CheckBox zgCheckBox = new CheckBox("Zg");
+
         CheckBox tempCheckBox = new CheckBox("Temp");
 
         // Set default selected checkboxes
@@ -90,9 +94,10 @@ public class SensorDataGraphApp extends Application {
         xCheckBox.setOnAction(event -> updateChartVisibility(xCheckBox, xSeries, chart));
         yCheckBox.setOnAction(event -> updateChartVisibility(yCheckBox, ySeries, chart));
         zCheckBox.setOnAction(event -> updateChartVisibility(zCheckBox, zSeries, chart));
-        xgCheckBox.setOnAction(event -> updateChartVisibility(xgCheckBox, x1Series, chart));
-        ygCheckBox.setOnAction(event -> updateChartVisibility(ygCheckBox, y1Series, chart));
-        zgCheckBox.setOnAction(event -> updateChartVisibility(zgCheckBox, z1Series, chart));
+
+        xgCheckBox.setOnAction(event -> updateChartVisibility(xgCheckBox, xgSeries, chart));
+        ygCheckBox.setOnAction(event -> updateChartVisibility(ygCheckBox, ygSeries, chart));
+        zgCheckBox.setOnAction(event -> updateChartVisibility(zgCheckBox, zgSeries, chart));
         tempCheckBox.setOnAction(event -> updateChartVisibility(tempCheckBox, tempSeries, chart));
 
         // Create HBox for checkboxes
@@ -248,9 +253,11 @@ public class SensorDataGraphApp extends Application {
                 xSeries.getData().add(new XYChart.Data<>(secondsList.get(i), xgList.get(i)));
                 ySeries.getData().add(new XYChart.Data<>(secondsList.get(i), ygList.get(i)));
                 zSeries.getData().add(new XYChart.Data<>(secondsList.get(i), zgList.get(i)));
-                x1Series.getData().add(new XYChart.Data<>(secondsList.get(i), xList.get(i)));
-                y1Series.getData().add(new XYChart.Data<>(secondsList.get(i), yList.get(i)));
-                z1Series.getData().add(new XYChart.Data<>(secondsList.get(i), zList.get(i)));
+
+                xgSeries.getData().add(new XYChart.Data<>(secondsList.get(i), xList.get(i)));
+                ygSeries.getData().add(new XYChart.Data<>(secondsList.get(i), yList.get(i)));
+                zgSeries.getData().add(new XYChart.Data<>(secondsList.get(i), zList.get(i)));
+
                 tempSeries.getData().add(new XYChart.Data<>(secondsList.get(i), temp.get(i)));
             }
         } catch (IOException e) {
@@ -279,9 +286,11 @@ public class SensorDataGraphApp extends Application {
         xSeries.getData().clear();
         ySeries.getData().clear();
         zSeries.getData().clear();
-        x1Series.getData().clear();
-        y1Series.getData().clear();
-        z1Series.getData().clear();
+
+        xgSeries.getData().clear();
+        ygSeries.getData().clear();
+        zgSeries.getData().clear();
+
         tempSeries.getData().clear();
 
     }
